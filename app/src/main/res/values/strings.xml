@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MIPT_PD4</string>
+    <string name="note_text">Notes</string>
+    <string name="btnSaveTxt">Save</string>
+    <string name="noteName">Topic</string>
+    <string name="noteContent">Enter note</string>
+    <string name="Delete">Delete</string>
+    <string name="add_note">Add new Note</string>
+    <string name="del_note">Delete Note</string>
+</resources>
